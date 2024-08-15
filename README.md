@@ -6,7 +6,7 @@
 - 😄 Pronouns: arch/btw
 - ⚡ Fun fact: i use arch, btw
 
-- Okay jokes aside youre probably not gonna see much activiy from here. I constantly find myself using github repos and decided to make an account
+- Okay jokes aside youre probably not gonna see much activity from here. I constantly find myself using github repos and decided to make an account
 
 <!---
 dudecalledeagle/dudecalledeagle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
